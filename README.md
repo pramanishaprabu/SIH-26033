@@ -152,6 +152,7 @@ In the future, AgriConnect can become a platform where farmers from different ar
  
 ## Research and References
 Research
+
 We looked at some existing agricultural platforms and farmer organisations to understand how farmers can get better market opportunities.
 1. National Agriculture Market (e-NAM)
 e-NAM is an online platform that connects agricultural markets across India. It helps farmers and buyers access market information, participate in online trading and get better price information. We referred to this platform to understand how digital technology can improve agricultural marketing.
@@ -163,6 +164,7 @@ Online agricultural platforms can connect farmers with buyers from different loc
 AI and machine learning can be used to study product details, market information and buyer requirements. In our project, we plan to use these technologies to suggest suitable buyers based on product type, quantity and location.
 
 References
+
 National Agriculture Market (e-NAM) – Official website⁠
 Small Farmers' Agribusiness Consortium (SFAC) – FPO Scheme⁠
 Tamil Nadu Department of Agricultural Marketing and Agri Business – Official website⁠
