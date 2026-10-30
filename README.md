@@ -172,5 +172,6 @@ Press Information Bureau – Information about FPOs and e-NAM⁠
 National Institute of Agricultural Extension Management (MANAGE) – FPO Agri-business ecosystem report⁠
 
 Research Conclusion
+
 From our research, we understood that farmers can benefit when they work together and get access to more buyers. Existing platforms such as e-NAM and FPO organisations show how technology and group participation can support agricultural marketing.
 Based on these ideas, we came up with AgriConnect. Our idea is to bring group selling, buyer matching, bulk orders and transportation support together in one platform.
